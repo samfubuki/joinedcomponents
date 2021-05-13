@@ -1,0 +1,124 @@
+{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Hind Vadodara', sans-serif;
+}
+.right-about{
+    /* display inline-block; */
+    float: right;
+    width: 30%;
+    margin-top: 5%;
+    /* margin-left */
+    
+}
+.right-about h4{
+    font-size: 200%;
+    margin-left: 10%;
+}
+.right-about ul{
+    width: 100%;
+
+}
+.links{
+    display: block;
+    list-style: none;
+    margin: 0%;
+    padding: 1%;
+    width: 60%;
+    /* height: 120%; */
+    /* box-sizing: border-box; */
+    display: grid;
+}
+.links a{
+    text-decoration: none;
+    background-color:#e1e1e1;
+    color: aliceblue;
+    /* list-style: none; */
+    padding:8%;
+    color:black;
+    font-size: 16px;
+    letter-spacing: .4px;
+    line-height: 33px;
+    opacity: 60%;
+    /* width:200000px; */
+    /* font-size: 20%; */
+    
+}
+.links a:hover{
+    background-color: #f5b120;
+    transition: 0.7s;
+    opacity: 100%;
+}
+.left-sec{
+    /* display: inline-block; */
+    float: left;
+    width: 50%;
+    margin-bottom: 20%;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+    padding-right: 10%;
+}
+.v-title{
+    text-align: center;
+    font-size: 200%;
+    width: auto;
+    color:#f5b120;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-shadow: 10%;
+    font-weight:bold;
+}
+.inner-right {
+    float: right;
+    width: 29%;
+    padding: 2%;
+}
+.inner-left{
+    float: left;
+    width: 29%;
+    padding: 2%;
+}
+.inner-middle{
+    float: left;
+    width: 29%;
+    padding: 2%;
+}
+.value{
+    margin-top: 30%;
+}
+p{
+    font-size: .91em;
+    line-height: 1.9em;
+    letter-spacing: .8px;
+}
+h4{
+    font-size: 1.3em;
+    margin-bottom: 0px;
+    margin: 0;
+    font-family: 'Hind Vadodara', sans-serif;
+    font-weight: 600;
+}
+
+.right-about span{
+    color: #1bb4b9;
+}
+/* .top-arrow{
+    width: 64px;
+    height: 64px;
+    display: block;
+    overflow: hidden;
+    float: right;
+    
+    z-index: 1;
+}*/
+.quote-img{
+    display: inline-block;
+    width: 10%;
+    height: 10%;
+}
+/* .v-stat > p::before{
+    
+    font-family: 'Glyphicons Halflings';
+    float: left;
+    margin: 0px 5px;
+} */
