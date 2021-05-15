@@ -3,15 +3,15 @@ import './corporateprog.css';
 function corporateprog() {
     return (
         <>
-          <div class="main-container">
+          <div className="main-container">
         
-        <div class="left-sec">
+        <div className="left-sec">
             
-            <div class="v-stat">
-                <h3 class="v-title" style="margin-top: 1%;">Helping Corporates, Help Causes</h3>
-                <br>
+            <div className="v-stat">
+                <h3 className="v-title" style="margin-top: 1%;">Helping Corporates, Help Causes</h3>
+               
                 <h4>Corporate Visits & Externships</h4>
-                <br>
+               
                 <p> 
                     
                     &rArr; We organize visits to Corporate offices for students belonging to low income group families.
@@ -19,9 +19,9 @@ function corporateprog() {
                 <p>
                     &rArr; We match brilliant interns with requirements in companies, where the interns can continue working and gain more exposure, while companies, get the best talent.
                 </p>
-                <br>
+               
                 <h4>Charitable Team Building Programs</h4>
-                <br>
+               
                 <p> 
                     
                     &rArr; Doing charity work as a team can help build bonds, strengthen communication skills and boost morale while making a positive difference in the lives of people who need it most.

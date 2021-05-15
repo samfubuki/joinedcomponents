@@ -4,23 +4,23 @@ import './expermentor.css';
 function expertmentor() {
     return (
         <>
-         <div class="main-container">
+         <div className="main-container">
         
-        <div class="left-sec">
+        <div className="left-sec">
             <div style="margin-top: 5%;">
-            <img src="quote.png" alt="quote image" class="quote-img">
-            <p class="" style="margin-left:10% ; margin-top: 0;">
+            <img src="quote.png" alt="quote image" className="quote-img">
+            <p className="" style="margin-left:10% ; margin-top: 0;">
                 Find your voice and inspire others to find theirs.
             </p>
-            <h4 class="" style="float: right; color: #f5b120;">
+            <h4 className="" style="float: right; color: #f5b120;">
                 stephen covey
             </h4>
                 </div>
-            <div class="v-stat">
-                <h3 class="v-title" style="margin-top: 15%;">inspire students, build nation</h3>
-                <br>
+            <div className="v-stat">
+                <h3 className="v-title" style="margin-top: 15%;">inspire students, build nation</h3>
+                
                 <h4>WHY</h4>
-                <br>
+                
                 <p> 
                     
                     &rArr; Ensure Money is not the showstopper.
@@ -33,12 +33,12 @@ function expertmentor() {
                     &rArr; Ensure Money is not the showstopper.
                 </p>
             </div>
-            <br>
-            <div class="v-stat">
+            
+            <div className="v-stat">
                 <h4>HOW</h4>
-                <br>
                 
-                <br>
+                
+                
                 <p>
                     &rArr; Prepare attractive schemes
                 </p>

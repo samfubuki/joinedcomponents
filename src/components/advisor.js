@@ -3,16 +3,16 @@ import './advisor.css';
 function advisor() {
     return (
         <>
-          <a href="#toparrowscroll" class="arrow-top">
-        <i class="fas fa-arrow-circle-up arrow"></i>
+          <a href="#toparrowscroll" className="arrow-top">
+        <i className="fas fa-arrow-circle-up arrow"></i>
       </a>
-    <div class="main-container" id="toparrowscroll">
-        <div class="left-sec">
+    <div className="main-container" id="toparrowscroll">
+        <div className="left-sec">
             <div >
-                <h4 class="v-title"><span>Advisors</span></h4>
-                <br><br><br>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/marie_ang.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 5%; margin-left: 5%;"></a>
-                <div class="text-body">
+                <h4 className="v-title"><span>Advisors</span></h4>
+                
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/marie_ang.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 5%; margin-left: 5%;"></a>
+                <div className="text-body">
                     <h4>
                         Ms. Marie Ang
                     </h4>
@@ -22,10 +22,10 @@ function advisor() {
 
                     </p>
                 </div>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/jasjit_singh.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 11%;"></a>
-                <div class="text-body" style="padding-left: 11%; ">
-                    <br>
-                    <br>
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/jasjit_singh.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 11%;"></a>
+                <div className="text-body" style="padding-left: 11%; ">
+                    
+                    
                     <h4>
                         Prof. Jasjit Singh
                     </h4>
@@ -34,8 +34,8 @@ function advisor() {
 
                     </p>
                 </div>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/allen_lai.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 7%; margin-left:5%;"></a>
-                <div class="text-body">
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/allen_lai.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 7%; margin-left:5%;"></a>
+                <div className="text-body">
                     <h4>
                         Dr. Allen Lai
                     </h4>
@@ -44,10 +44,10 @@ function advisor() {
 
                     </p>
                 </div>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/alan_prem_kumar.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 11%;"></a>
-                <div class="text-body" style="padding-left: 11%; ">
-                    <br>
-                    <br>
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/alan_prem_kumar.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 11%;"></a>
+                <div className="text-body" style="padding-left: 11%; ">
+                    
+                    
                     <h4>
                         Dr. Alan Prem Kumar
                     </h4>
@@ -55,12 +55,12 @@ function advisor() {
                         Dr. Alan is a Principal Associate at Cancer Science Institute of Singapore, National University of Singapore and an Assistant Professor at Medical Science Cluster and Department of Pharmacology of Yong Loo Lin School of Medicine, NUS. He is Advisor to various pharmaceutical companies and an adjunct/visiting professor at various universities globally.
                     </p>
                 </div>
-                <br>
-                <br><br><br>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/marta_vlatchkova.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 7%; margin-left:5%;"></a>
-                <div class="text-body">
-                    <br>
-                    <br><br>
+                
+                
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/marta_vlatchkova.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 7%; margin-left:5%;"></a>
+                <div className="text-body">
+                    
+                    
                     <h4>
                         Ms. Marta Vlatchkova
                     </h4>
@@ -70,11 +70,11 @@ function advisor() {
 
                     </p>
                 </div>
-                <br><br><br>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/nedir_boudriga.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 4%;"></a>
-                <div class="text-body" style="padding-left: 11%; ">
-                    <br>
-                    <br>
+                
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/nedir_boudriga.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 4%;"></a>
+                <div className="text-body" style="padding-left: 11%; ">
+                    
+                    
                     <h4>
                         Mr. Nedir Boudriga
                     </h4>
@@ -84,10 +84,10 @@ function advisor() {
 
                         </p>
                 </div>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/roger_lehman.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 20%; margin-left:5%;"></a>
-                <div class="text-body" style="margin: 1%; float: left; width: 65%;">
-                    <br>
-                    <br><br> <br>
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/roger_lehman.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 20%; margin-left:5%;"></a>
+                <div className="text-body" style="margin: 1%; float: left; width: 65%;">
+                    
+                     
                     <h4>
                         Prof. Roger Lehman
                     </h4>
@@ -96,13 +96,13 @@ function advisor() {
 
                     </p>
                 </div>
-                <br><br><br>
+                
                 <!-- <div style="display: flex; margin-top: 55%;">
-                <a target="_blank" href="#" ><img class="profile-img" src="vishal_narayan.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 11%;"></a>
+                <a target="_blank" href="#" ><img className="profile-img" src="vishal_narayan.jpg" alt="Profile img of our Advisors" style="float: left; padding-right: 2%; margin-top: 11%;"></a>
                 </div>
-                <div class="text-body" style="padding-left: 30%; margin-left: 10%; display: flex;">
-                    <br>
-                    <br>
+                <div className="text-body" style="padding-left: 30%; margin-left: 10%; display: flex;">
+                    
+                    
                     <h4>
                        Prof. Vishal Narayan
                     </h4>

@@ -4,17 +4,17 @@ import './executiveteam.css';
 function executiveteam() {
     return (
         <>
-         <a href="#toparrowscroll" class="arrow-top">
-        <i class="fas fa-arrow-circle-up arrow"></i>
+         <a href="#toparrowscroll" className="arrow-top">
+        <i className="fas fa-arrow-circle-up arrow"></i>
       </a>
-    <div class="main-container" id="toparrowscroll">
-        <div class="left-sec">
+    <div className="main-container" id="toparrowscroll">
+        <div className="left-sec">
                      
             
-            <div class="v-stat">
-                <h3 class="v-title"><span>Founding Team</span></h3>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/priyesh_kumar.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 2%; margin-top: 11%; margin-left: 7%;"></a>
-                <div class="text-body">
+            <div className="v-stat">
+                <h3 className="v-title"><span>Founding Team</span></h3>
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/priyesh_kumar.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 2%; margin-top: 11%; margin-left: 7%;"></a>
+                <div className="text-body">
                     <h4>
                         Priyesh Kumar
                     </h4>
@@ -28,10 +28,10 @@ function executiveteam() {
                 </div>
               
             </div>
-            <div class="v-stat">
-                <h3 class="v-title"><span>Management Team</span></h3>
-                <a target="_blank" href="#" ><img class="profile-img" src="../img/tanwi_kaushik.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 11%; margin-left: 7%;"></a>
-                <div class="text-body">
+            <div className="v-stat">
+                <h3 className="v-title"><span>Management Team</span></h3>
+                <a target="_blank" href="#" ><img className="profile-img" src="../img/tanwi_kaushik.jpg" alt="Profile img of our Advisors" style="float: right; padding-left: 1%; margin-top: 11%; margin-left: 7%;"></a>
+                <div className="text-body">
                     <h4>
                         Tanwi Kaushik
                     </h4>
